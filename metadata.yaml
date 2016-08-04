@@ -1,0 +1,53 @@
+_repo: The-Fifteen-Decisive-Battles-of-the-World--from-Marathon-to-Waterloo_4061
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Creasy, Edward Shepherd, Sir
+    aliases:
+    - Creasy, Edward S. (Edward Shepherd), Sir
+    - Creasy, E. S. (Edward Shepherd), Sir
+    birthdate: 1812
+    deathdate: 1878
+    gutenberg_agent_id: '1376'
+    url: http://www.gutenberg.org/2009/agents/1376
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Shepherd_Creasy
+description: "The Fifteen Decisive Battles of the World: from Marathon to Waterloo\
+  \ is a book written by Sir Edward Shepherd Creasy and published in 1851. This book\
+  \ tells the story of the fifteen military engagements, which, according to the author,\
+  \ had a significant impact on world history. The selection reflects the worldview\
+  \ of a 19th-century European with a classical education: fourteen of the battles\
+  \ took place in the arc of historically interconnected military theatres which stretched\
+  \ from Persia through the Mediterranean Basin to Europe, and one was fought by European\
+  \ powers and former colonies in North America.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4061'
+  wikidata: Q1263579
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Battles'
+- !lcc 'D'
+- GITenberg
+tableOfContents: The battle of Marathon -- Defeat of the Athenians at Syracuse, B.C.
+  413 -- The battle of Arbela, B.C. 331 -- The battle of the Metaurus, B.C. 207 --
+  Victory of Arminius over the Roman Legions under Varus, A.D. 9 -- The battle of
+  Chalons, A.D. 451 -- The battle of Tours, A.D. 732 -- The battle of Hastings, A.D.
+  1066 -- Joan of Arc's Victory over the English at Orleans, A.D. 1429 -- The defeat
+  of the Spanish Armada, A.D. 1588 -- The battle of Blenheim, A.D. 1704 -- The battle
+  of Pultowa, A.D. 1709 -- Victory of the Americans over Burgoyne at Saratoga, A.D.
+  1777 -- The battle of Valmy, A.D. 1792 -- The battle of Waterloo, A.D. 1815.
+title: 'The Fifteen Decisive Battles of the World: from Marathon to Waterloo'
+url: http://www.gutenberg.org/ebooks/4061
+wikipedia:
+- https://fr.wikipedia.org/wiki/The_Fifteen_Decisive_Battles_of_the_World
+- https://sh.wikipedia.org/wiki/Petnaest_odlu%C4%8Duju%C4%87ih_bitaka_svijeta
+- https://nl.wikipedia.org/wiki/The_Fifteen_Decisive_Battles_of_the_World
+- https://de.wikipedia.org/wiki/The_Fifteen_Decisive_Battles_of_the_World
+- https://pl.wikipedia.org/wiki/Prze%C5%82omowe_bitwy_w_historii_%C5%9Bwiata
+- https://en.wikipedia.org/wiki/The_Fifteen_Decisive_Battles_of_the_World
+- https://it.wikipedia.org/wiki/Le_quindici_decisive_battaglie_del_mondo
+- https://ca.wikipedia.org/wiki/Quinze_batalles_decisives
